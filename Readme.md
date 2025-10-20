@@ -84,41 +84,14 @@ To run the project locally:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/TechSociety.git
+   git clone https://github.com/muhammadhussain29/TechSociety.git
    cd TechSociety
    ```
 
 2. **Open `index.html`** in your browser  
    You can double-click the file or use a live server:
-   ```bash
-   # If using VS Code
-   npx live-server
-   ```
 
 3. **Ensure internet connection** for CDN-based resources like Bootstrap, Font Awesome, and AOS.
-
----
-
-## 🌐 Live Demo
-
-You can deploy this site easily using **GitHub Pages**, **Netlify**, or **Vercel**.
-
-Example (GitHub Pages):
-```bash
-git add .
-git commit -m "Deploy TechSociety website"
-git push origin main
-```
-Then enable **GitHub Pages** in repository settings.
-
----
-
-## 📞 Contact
-
-For inquiries or collaboration:
-- 📧 Email: [hussainmughal29@gmail.com](mailto:hussainmughal29@gmail.com)
-- 🌍 Facebook: [TechSociety Page](https://www.facebook.com/share/D9gAzJnbRwSBmyVX/?mibextid=qi2Omg)
-- 📍 Location: [View on Google Maps](https://maps.app.goo.gl/tvdPFrUCwWdbKxjv7)
 
 ---
 
@@ -126,12 +99,6 @@ For inquiries or collaboration:
 
 **Muhammad Hussain**  
 Front-End Developer | Designer | Tech Enthusiast
-
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License** — free to use and modify for personal or educational projects.
 
 ---
 
